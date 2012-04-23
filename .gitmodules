@@ -1,3 +1,6 @@
 [submodule "vraptor-js-controller"]
 	path = vraptor-js-controller
 	url = https://github.com/marceloemanoel/vraptor-js-controller
+[submodule "mybatis-migrations-anttasks"]
+	path = mybatis-migrations-anttasks
+	url = git@github.com:rponte/mybatis-migrations-anttasks.git
