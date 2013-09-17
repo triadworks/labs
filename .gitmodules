@@ -4,3 +4,6 @@
 [submodule "mybatis-migrations-anttasks"]
 	path = mybatis-migrations-anttasks
 	url = git@github.com:rponte/mybatis-migrations-anttasks.git
+[submodule "vraptor-blank-project"]
+	path = vraptor-blank-project
+	url = git@github.com:triadworks/vraptor-blank-project.git
